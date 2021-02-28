@@ -5,5 +5,5 @@
 
 - npm install
 - Colocar Link no arquivo file.txt
--npm start
+- npm start
 
